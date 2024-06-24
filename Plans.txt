@@ -1,0 +1,14 @@
+Plans for the future / Planos do projeto
+
+English
+
+Set a searchable list of all B3 stocks and get the last closing price;
+Create a line graph using matplot to track all closing prices of a stock along with its moving average and its positive/negative SD;
+Based on this "SD-Based strategy", show if its "Buy time"/"Sell time"/"Shouldnt Entry" (ps: Not really a recomendation, buy only if its matching other buy requisites)
+
+More incoming...
+
+Português
+Criar uma lista de todos os ativos das ações listadas na B3 e seu preço de fechamento;
+Criar um gráfico de linha usando matplot pra rastrear todos os preços de fechamento junto com a média móvel e o desvio padrão negativo e positivo;
+Baseado nessa "estratégia", mostrar se é "Compra"/"Venda"/"Não operar" (obs: Não é recomendação, nunca será, compre e venda apenas se outros critérios pessoais sejam atingidos)
